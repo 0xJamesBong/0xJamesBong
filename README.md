@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 0</h1>
+<h1 align="center">Hi 👋, I'm 0xJamesBong</h1>
 <h3 align="center">Knows some solidity, python, and JS. In search of characteristica universalis.</h3>
 
 - 🔭 I’m currently working on [surreals](https://github.com/0xJamesBong)
